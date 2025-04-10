@@ -1,1 +1,1 @@
-# job-scout-ai
+# music-by-mood-bot
